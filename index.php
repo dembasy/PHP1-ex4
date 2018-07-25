@@ -5,6 +5,6 @@
     <title>exo4</title>
   </head>
   <body>
-    <p><?php $int = 'lol'; echo $int; ?></p>
+    <body><p><?php $welcome = 'hello'; $km = 3; $km = 125; echo $km; ?></p>
   </body>
 </html>
